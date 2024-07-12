@@ -32,7 +32,7 @@ html,body {
 }
 
 .left-container {
-    height: 90%;
+    height: 80%;
     width: 25%;
     background: linear-gradient(to bottom right , rgb(40, 122, 255), purple);
     border-radius: 25px;
