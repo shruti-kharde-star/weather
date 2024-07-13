@@ -22,7 +22,7 @@ html,body {
 }
 
 .container {
-    height: 90%;
+    height: 95%;
     width: 95%;
     background-color: white;
     border-radius: 40px;
@@ -70,7 +70,7 @@ html,body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 8vw;
+    padding-top: 5vw;
     font-weight: 100;
 }
 
