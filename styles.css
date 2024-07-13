@@ -32,7 +32,7 @@ html,body {
 }
 
 .left-container {
-    height: 80%;
+    height: 90%;
     width: 25%;
     background: linear-gradient(to bottom right , rgb(40, 122, 255), purple);
     border-radius: 25px;
@@ -107,7 +107,7 @@ html,body {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    margin-top: 2vw;
+    margin-top: 1vw;
 
 }
 
